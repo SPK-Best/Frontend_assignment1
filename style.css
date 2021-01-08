@@ -19,14 +19,25 @@
 #input-box {
     height: 30px;
     width: 400px;
+    background-color: aqua;
 }
 
 .block {
     width: 450px;
-    height: 200px;
+    height: 230px;
     margin: auto;
     padding: 40px;
     margin-top: 40px;
-    border: 1px solid #aaaaaa;
+    border: 5px solid #aaaaaa;
     border-radius: 10px;
+    background-color :khaki;
+}
+
+.block button.block-button {
+    margin-left: 0px;
+    margin-top: 10px;
+    padding: 15px 15px 15px 15px;
+    border-radius: 10px;
+    background-color: green;
+    font-size: 20px;
 }
