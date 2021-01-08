@@ -1,3 +1,26 @@
+#main-header {
+    font-size: 30px;
+    line-height: 24px;
+    text-align: left;
+    padding-bottom: 40px;
+    width: 500px;
+    margin: auto;
+}
+
+#body-text {
+    font-size: 20px;
+    line-height: 24px;
+    text-align: left;
+    padding-bottom: 20px;
+    width: 500px;
+    margin: auto;
+}
+
+#input-box {
+    height: 30px;
+    width: 400px;
+}
+
 .block {
     width: 450px;
     height: 200px;
