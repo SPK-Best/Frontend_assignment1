@@ -33,6 +33,28 @@
     background-color :khaki;
 }
 
+.thank-block {
+    width: 420px;
+    height: 150px;
+    margin: auto;
+    padding: 40px;
+    margin-top: 40px;
+    border: 5px solid #aaaaaa;
+    border-radius: 10px;
+    background-color :khaki;
+}
+
+.inner-box {
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 5px;
+    border: 5px solid #aaaaaa;
+    border-radius: 10px;
+    background-color :rgb(140, 240, 140);
+}
+
 .block button.block-button {
     margin-left: 0px;
     margin-top: 10px;

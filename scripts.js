@@ -15,7 +15,5 @@ var evaluateEmailFunction = function(e){
 }
 
 var successfullySubscribe = function() {
-    document.open();
-    document.write(" <h1> Thank you </h1> Your subscription was a success!");
-    document.close();
+    location.href = 'thank_page.html'
 }
